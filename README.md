@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peehu</h1>
+<h1 align="center">Hi 👋<br> This is Peehu</h1>
 <h3 align="center">Turning caffeine into beautiful, functional, and scalable code. A lifelong learner navigating the tech universe with curiosity, collaboration, and a well-placed semicolon.</h3>
 
 <h3 align="left">Connect with me:</h3>
