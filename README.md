@@ -13,3 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peehu1308&show_icons=true&locale=en" alt="peehu1308" /></p>
 
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/peehu-mishra-a5bb91293/)
+
