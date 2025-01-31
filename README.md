@@ -1,7 +1,7 @@
 <h1 align="center" style="color: black; font-size: 3rem; font-weight: bold;">Heyyyyyy 👋<br> This is Peehu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79D00&center=true&vCenter=true&width=440&height=45&lines=Hey%2C+I'm+Peehu!;Full+Stack+Developer;AI+Explorer;Flutter+Fanatic;Lifelong+Learner" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=343434&center=true&vCenter=true&width=440&height=45&lines=Hey%2C+I'm+Peehu!;Full+Stack+Developer;AI+Explorer;Flutter+Fanatic;Lifelong+Learner" alt="Typing SVG">
 </p>
 
 <h3 align="center">🚀 Crafting intuitive experiences, one line of code at a time. Passionate about AI, Web Dev, and building the future! 🌟</h3>
