@@ -15,9 +15,7 @@ Open source contributor focused on building real-world solutions using Flutter, 
 ### 🌟 Open Source Highlights
 - 🏆 **Ranked 35 in SWOC’25**
 - 🏆 **Ranked 36 in GSSoC’25**
-- 🔥 **1332+ contributions in 2025**
 - 🧑‍💻 Active contributor to community-driven OSS projects
-- 🎯 Aspiring **GSoC 2025** contributor
 
 ---
 
@@ -85,5 +83,4 @@ Open source contributor focused on building real-world solutions using Flutter, 
 
 ### 🚀 Current Focus
 - Contributing consistently to **open source projects**
-- Preparing for **GSoC 2025**
 - Building scalable Flutter and web applications
