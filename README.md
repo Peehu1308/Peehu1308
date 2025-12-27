@@ -77,9 +77,15 @@ Focused on building reliable software, contributing to open source communities, 
 
 ## 📊 GitHub Statistics
 
-### Contribution Overview
-<h3 align="left">GitHub Stats:</h3> <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peehu1308&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /> </p> <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=peehu1308&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peehu1308&theme=dark" alt="GitHub Streak" /></p>
----
+### Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peehu1308&show_icons=true&theme=dark&hide_border=true)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peehu1308&theme=dark&hide_border=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peehu1308&layout=compact&theme=dark&hide_border=true)
+
 
 ## 🎯 Current Focus
 - Contributing consistently to open source projects
