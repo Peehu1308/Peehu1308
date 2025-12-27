@@ -77,8 +77,6 @@ Focused on building reliable software, contributing to open source communities, 
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peehu1308&show_icons=true&theme=dark&hide_border=true&cache_seconds=21600)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peehu1308&theme=dark&hide_border=true)
