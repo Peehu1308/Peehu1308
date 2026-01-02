@@ -1,6 +1,6 @@
 <h1 align="center">Peehu Mishra</h1>
 
-<h3 align="center" background="black">
+<h3 align="center" background-color="black">
 CSE Undergraduate | Open Source Contributor | Flutter & Web Developer
 </h3>
 
