@@ -1,4 +1,4 @@
-<h1 align="center">Peehu Mishra</h1>
+<h1 align="center" color="red">Peehu Mishra</h1>
 
 <h3 align="center" background-color="black">
 CSE Undergraduate | Open Source Contributor | Flutter & Web Developer
