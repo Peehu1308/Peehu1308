@@ -20,10 +20,7 @@ Focused on building reliable software, contributing to open source communities, 
 <td><strong>GSSoC 2025</strong></td>
 <td>Ranked <strong>36</strong></td>
 </tr>
-<tr>
-<td><strong>GitHub Contributions (2025)</strong></td>
-<td><strong>1332+</strong> contributions</td>
-</tr>
+
 </table>
 
 ---
