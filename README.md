@@ -63,6 +63,13 @@ learning through real-world impact and collaboration.
 </table>
 
 ---
+## 🧠 Areas of Interest
+- Open Source & Community-driven Development
+- Flutter & Cross-platform App Development
+- Web Performance & UI/UX Engineering
+- AI/ML Applications and Research-oriented Projects
+
+---
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peehu1308&theme=github-dark)
