@@ -64,10 +64,9 @@ learning through real-world impact and collaboration.
 
 ---
 
-## 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=peehu1308" />
-</p>
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peehu1308&theme=github-dark)
+
 
 
 ---
