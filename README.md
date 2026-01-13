@@ -9,11 +9,11 @@ I build reliable, user-focused software and actively contribute to open-source p
 learning through real-world impact and collaboration.
 </p>
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=peehu1308&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
----
+--- -->
 
 ## 🏆 Open Source Achievements
 <table>
