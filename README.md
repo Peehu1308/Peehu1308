@@ -20,60 +20,22 @@ I’m a Computer Science Engineering undergraduate with a strong focus on **Arti
 
 - 🔭 Building full-stack and AI-driven products with real-world use cases  
 - 🌱 Learning **advanced ML techniques**, system design, and cloud-native development  
-- 👯 Looking to collaborate on **open-source, AI, and research-oriented projects**  
-- 💬 Ask me about **AI/ML, full-stack development, databases, or open source**
+- 👯 Looking to collaborate on **open-source, AI, and research-oriented projects** - 💬 Ask me about **AI/ML, full-stack development, databases, or open source**
 
 ---
+
 ## 🛠️ Tech Stack
 
-const techStack = {
-  languages: [
-    "Python",
-    "C++",
-    "Java",
-    "JavaScript",
-    "TypeScript",
-    "Dart"
-  ],
-
-  frontend: [
-    "React.js",
-    "HTML5",
-    "CSS3",
-    "Tailwind CSS",
-    "Flutter"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "FastAPI",
-    "REST APIs"
-  ],
-
-  databases: [
-    "Supabase",
-    "Firebase",
-    "MongoDB",
-    "PostgreSQL"
-  ],
-
-  ai_ml: [
-    "Machine Learning",
-    "Deep Learning",
-    "CNNs",
-    "MRI Image Processing"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "Postman",
-    "Figma",
-    "Linux"
-  ]
+```javascript
+const peehu = {
+  languages: ['Python', 'C++', 'Java', 'JavaScript', 'TypeScript', 'Dart'],
+  frontend: ['React.js', 'HTML5', 'CSS3', 'Tailwind CSS', 'Flutter'],
+  backend: ['Node.js', 'Express.js', 'FastAPI', 'RESTful APIs'],
+  databases: ['Supabase', 'Firebase', 'MongoDB', 'PostgreSQL'],
+  ai_ml: ['Machine Learning', 'Deep Learning', 'CNNs', 'MRI Image Processing'],
+  tools: ['Git', 'GitHub', 'Postman', 'Figma', 'Linux']
 };
-
+```
 
 ---
 
