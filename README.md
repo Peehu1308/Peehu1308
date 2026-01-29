@@ -24,46 +24,56 @@ I’m a Computer Science Engineering undergraduate with a strong focus on **Arti
 - 💬 Ask me about **AI/ML, full-stack development, databases, or open source**
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Python  
-- JavaScript  
-- TypeScript  
-- Java  
-- C++  
-- Dart  
+```js
+const peehu = {
+  languages: [
+    'Python',
+    'JavaScript',
+    'TypeScript',
+    'C++',
+    'Java',
+    'Dart'
+  ],
 
-### 🌐 Frontend
-- React.js  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- Flutter  
+  frontend: [
+    'React.js',
+    'HTML5',
+    'CSS3',
+    'Tailwind CSS',
+    'Flutter'
+  ],
 
-### 🧩 Backend
-- Node.js  
-- Express.js  
-- REST APIs  
+  backend: [
+    'Node.js',
+    'Express.js',
+    'FastAPI',
+    'REST APIs'
+  ],
 
-### 🗄️ Databases & Backend Services
-- **Supabase**  
-- **Firebase**  
-- MongoDB  
-- PostgreSQL  
+  databases_and_backend_services: [
+    'Supabase',
+    'Firebase',
+    'MongoDB',
+    'PostgreSQL'
+  ],
 
-### 🤖 AI / ML
-- Machine Learning  
-- Deep Learning  
-- CNNs  
-- Image Processing (MRI data)  
+  ai_ml: [
+    'Machine Learning',
+    'Deep Learning',
+    'CNNs',
+    'Image Processing (MRI Data)'
+  ],
 
-### 🛠️ Tools & Platforms
-- Git & GitHub  
-- Postman  
-- Figma  
-- Linux  
+  tools_and_platforms: [
+    'Git',
+    'GitHub',
+    'Postman',
+    'Figma',
+    'Linux'
+  ]
+};
 
 ---
 
