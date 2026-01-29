@@ -26,54 +26,54 @@ I’m a Computer Science Engineering undergraduate with a strong focus on **Arti
 ---
 ## 🛠️ Tech Stack
 
-```js
-const peehu = {
+const techStack = {
   languages: [
-    'Python',
-    'JavaScript',
-    'TypeScript',
-    'C++',
-    'Java',
-    'Dart'
+    "Python",
+    "C++",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "Dart"
   ],
 
   frontend: [
-    'React.js',
-    'HTML5',
-    'CSS3',
-    'Tailwind CSS',
-    'Flutter'
+    "React.js",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Flutter"
   ],
 
   backend: [
-    'Node.js',
-    'Express.js',
-    'FastAPI',
-    'REST APIs'
+    "Node.js",
+    "Express.js",
+    "FastAPI",
+    "REST APIs"
   ],
 
-  databases_and_backend_services: [
-    'Supabase',
-    'Firebase',
-    'MongoDB',
-    'PostgreSQL'
+  databases: [
+    "Supabase",
+    "Firebase",
+    "MongoDB",
+    "PostgreSQL"
   ],
 
   ai_ml: [
-    'Machine Learning',
-    'Deep Learning',
-    'CNNs',
-    'Image Processing (MRI Data)'
+    "Machine Learning",
+    "Deep Learning",
+    "CNNs",
+    "MRI Image Processing"
   ],
 
-  tools_and_platforms: [
-    'Git',
-    'GitHub',
-    'Postman',
-    'Figma',
-    'Linux'
+  tools: [
+    "Git",
+    "GitHub",
+    "Postman",
+    "Figma",
+    "Linux"
   ]
 };
+
 
 ---
 
