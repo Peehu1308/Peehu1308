@@ -39,15 +39,6 @@ const peehu = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Peehu1308&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peehu1308&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🏆 Achievements & Recognition
 
 - 🥈 **GirlScript Summer of Code (GSSoC) 2025**  
