@@ -1,108 +1,64 @@
-<h1 align="center">Peehu Mishra</h1>
+👾 Hi, I’m Peehu Mishra
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B8CFF&center=true&vCenter=true&width=500&lines=CSE+Undergraduate;AI+%26+Web+Developer;Open+Source+Contributor;Building+Cool+Things+🚀" /> </p>
+🚀 About Me
 
-<h3 align="center">
-CSE Undergraduate | Open Source Contributor | Flutter & Web Developer
-</h3>
+I’m a Computer Science Engineering undergraduate based in New Delhi, passionate about building intelligent, scalable, and user-centric systems.
 
-<p align="center">
-I build reliable, user-focused software and actively contribute to open-source projects, 
-learning through real-world impact and collaboration.
-</p>
----
+My core interests lie at the intersection of Artificial Intelligence, Web & App Development, and Open Source. I enjoy turning complex ideas into clean, functional products — whether it’s an AI model, a full-stack application, or an interactive UI.
 
+I strongly believe in learning by building, collaborating with people smarter than me, and contributing back to the tech community.
 
-## 🏆 Open Source Achievements
-<table>
-<tr>
-<td><strong>SWOC 2025</strong></td>
-<td>Ranked <strong>35</strong></td>
-</tr>
-<tr>
-<td><strong>GSSoC 2025</strong></td>
-<td>Ranked <strong>36</strong></td>
-</tr>
-</table>
+🎯 What I’m Focused On
 
----
+🔭 Building: AI-powered web & mobile applications
 
-## 👩‍💻 About Me
-- CSE undergraduate with hands-on experience in **Flutter app development** and **modern web technologies**
-- Active open-source contributor working on **bug fixes, feature enhancements, and UI improvements**
-- Experienced in collaborating with maintainers and following structured contribution workflows
-- Passionate about building scalable products and learning through community-driven development
+🌱 Learning: Advanced ML architectures, system design & cloud-native development
 
----
+👯 Collaborating on: Open-source projects in AI, Web, and developer tooling
 
-## 🛠️ Technical Skills
+💬 Ask me about: Full-stack dev, AI/ML, React, Flutter, open source
 
-<table>
-<tr>
-<th>Category</th>
-<th>Technologies</th>
-</tr>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>HTML, CSS, JavaScript, React, Tailwind CSS</td>
-</tr>
-<tr>
-<td><strong>Mobile Development</strong></td>
-<td>Flutter, Dart</td>
-</tr>
-<tr>
-<td><strong>Backend</strong></td>
-<td>Python, Java</td>
-</tr>
-<tr>
-<td><strong>Databases</strong></td>
-<td>MySQL, MongoDB, Firebase</td>
-</tr>
-<tr>
-<td><strong>Design & 3D</strong></td>
-<td>Figma, Blender</td>
-</tr>
-</table>
+⚡ Fun fact: I enjoy debugging complex systems as much as reading mystery novels
 
----
-## 🧠 Areas of Interest
-- Open Source & Community-driven Development
-- Flutter & Cross-platform App Development
-- Web Performance & UI/UX Engineering
-- AI/ML Applications and Research-oriented Projects
+🛠️ Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,dart" /> </p>
+⚙️ Frameworks & Libraries
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,tensorflow,pytorch" /> </p>
+☁️ Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,git,github" /> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peehu1308&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peehu1308&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Peehu1308&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Peehu1308&theme=tokyonight&no-frame=true&row=2&column=4"/> </p>
+🏗️ Featured Projects
+🌟 AI-Powered Chatbot Framework
 
----
+Tech: Python • FastAPI • NLP • Docker
+A modular, scalable chatbot framework built using modern NLP techniques.
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peehu1308&theme=github-dark)
+🛒 Full-Stack E-commerce Platform
 
+Tech: React • Node.js • MongoDB • Stripe
+A production-ready e-commerce platform with authentication, payments, and admin dashboards.
 
+📱 Mobile Task Manager App
 
----
+Tech: Flutter / React Native • Firebase
+A clean, cross-platform productivity app with real-time sync.
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peehu1308&show_icons=true&theme=dark&hide_border=true" />
-</p>
+🏆 Open Source & Achievements
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peehu1308&theme=dark&hide_border=true" />
-</p>
+🥇 SWOC’25 – Rank 35
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peehu1308&layout=compact&theme=dark&hide_border=true" />
-</p>
+🥈 GSSoC’25 – Rank 36
 
----
+🌍 Active contributor to multiple open-source projects
 
-## 🎯 Current Focus
-- Contributing consistently to impactful open-source projects
-- Building Flutter-based and web-based applications
-- Improving system design, scalability, and code quality
+🛠️ Experience with feature development, bug fixes, refactors & docs
 
----
-
-## 🤝 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/peehu-mishra-a5bb91293/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
+🌐 Let’s Connect
+<p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:your.email@example.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://yourportfolio.com"> <img src="https://skillicons.dev/icons?i=webflow" /> </a> <a href="https://twitter.com/YOUR_TWITTER"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </p>
+☕ Support My Work
+<p align="center"> <a href="https://buymeacoffee.com/Peehu1308"> <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a> <a href="https://github.com/sponsors/Peehu1308"> <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors"/> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Peehu1308&style=for-the-badge&color=6B8CFF"/> </p> <p align="center"> <b>🚀 “Code is poetry — every commit tells a story.”</b><br/> <sub>⭐ Feel free to star repositories you like!</sub> </p>
