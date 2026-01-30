@@ -33,7 +33,7 @@ const peehu = {
   backend: ['Node.js', 'Express.js', 'FastAPI', 'RESTful APIs'],
   databases: ['Supabase', 'Firebase', 'MongoDB', 'PostgreSQL'],
   ai_ml: ['Machine Learning', 'Deep Learning', 'CNNs', 'MRI Image Processing'],
-  tools: ['Git', 'GitHub', 'Postman', 'Figma', 'Linux']
+  tools: ['Git', 'GitHub', 'Postman', 'Figma',]
 };
 ```
 
@@ -79,8 +79,7 @@ const peehu = {
 ---
 
 ## 🎯 Goals
-
-- 🚀 Contribute to **Google Summer of Code (GSoC)**  
+ 
 - 📚 Strengthen research profile in **AI & ML**  
 - 🌱 Build large-scale, production-ready systems  
 - 🤝 Continue impactful open-source contributions  
