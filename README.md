@@ -57,27 +57,6 @@ const peehu = {
   Served as **Tech Head**, leading development efforts and mentoring peers.
 
 ---
-
-## 🚧 Featured Projects
-
-### 🌟 [Pixel App](https://github.com/Peehu1308/Pixel)  
-**Tech Stack:** Dart • Flutter • Supabase  
-
-*A cross-platform mobile application built using Flutter (Dart) with Supabase as the backend. Pixel focuses on discovering and sharing creative visual content, featuring real-time updates, authentication, and a smooth, interactive UI.*
-
-
----
-
-### 🔹 AI Cancer Detection System  
-*ML-based system for detecting tumors from MRI scans.*
-
-**Highlights:**
-- Brain & breast cancer datasets  
-- Clustering + classification techniques  
-- Focus on early detection accuracy  
-
----
-
 ## 🎯 Goals
  
 - 📚 Strengthen research profile in **AI & ML**  
